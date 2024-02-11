@@ -1,4 +1,4 @@
-# Cpp_Practice
+# CodeWars-Cpp
 
 In this repository I will be uploading every day some practice exercises in cpp
 
